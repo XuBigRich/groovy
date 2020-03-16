@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8eec4564-cab1-4ede-b26e-5e927e2e2766" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZBuyZzClNPGmmDWRF6RxKDHn9h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Groovy.UsageClouseStudy">
+    <configuration name="ClouserStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/closure/ClouserStudy.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/closure" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GStringStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/string/GStringStudy.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/string" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/string/StringStudy.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/string" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsageClouseStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/closure/UsageClouseStudy.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/closure" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/variable/VariableStudy.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/variable" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Groovy.UsageClouseStudy" />
+        <item itemvalue="Groovy.ClouserStudy" />
+        <item itemvalue="Groovy.GStringStudy" />
+        <item itemvalue="Groovy.StringStudy" />
+        <item itemvalue="Groovy.VariableStudy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8eec4564-cab1-4ede-b26e-5e927e2e2766" name="Default Changelist" comment="" />
+      <created>1584325063035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584325063035</updated>
+      <workItem from="1584325064843" duration="16545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="784" y="158" key="#Project_Structure" timestamp="1584327537231">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="158" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1584327537231" />
+    <state width="1557" height="176" key="GridCell.Tab.0.bottom" timestamp="1584349709782">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="176" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584349709782" />
+    <state width="1557" height="176" key="GridCell.Tab.0.center" timestamp="1584349709782">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="176" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584349709782" />
+    <state width="1557" height="176" key="GridCell.Tab.0.left" timestamp="1584349709782">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="176" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584349709782" />
+    <state width="1557" height="176" key="GridCell.Tab.0.right" timestamp="1584349709782">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="176" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584349709782" />
+    <state width="1205" height="225" key="GridCell.Tab.1.bottom" timestamp="1584329251079">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1205" height="225" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584329251079" />
+    <state width="1205" height="225" key="GridCell.Tab.1.center" timestamp="1584329251079">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1205" height="225" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1584329251079" />
+    <state width="1205" height="225" key="GridCell.Tab.1.left" timestamp="1584329251079">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1205" height="225" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1584329251079" />
+    <state width="1205" height="225" key="GridCell.Tab.1.right" timestamp="1584329251079">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1205" height="225" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1584329251079" />
+  </component>
+</project>
