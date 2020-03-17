@@ -31,6 +31,6 @@ println personAddSex.sex
 //动态为类添加一个方法    通过闭包 把方法注入到类中
 Person.metaClass.sexUpperCase={
    -> sex.toUpperCase()
-}
+}  
 def person1=new Person()
 println person.sexUpperCase()

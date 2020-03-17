@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8eec4564-cab1-4ede-b26e-5e927e2e2766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/closure/HigherLevelClouseStudy.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectorention/Action.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectorention/DefualtAction.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectorention/Man.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectorention/Person.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectorention/objectorention.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8eec4564-cab1-4ede-b26e-5e927e2e2766" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584325063035</updated>
       <workItem from="1584325064843" duration="16812000" />
-      <workItem from="1584407159884" duration="16983000" />
+      <workItem from="1584407159884" duration="17255000" />
     </task>
     <servers />
   </component>
@@ -166,22 +156,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584423851310" />
-    <state width="1557" height="190" key="GridCell.Tab.0.bottom" timestamp="1584436672413">
+    <state width="1557" height="190" key="GridCell.Tab.0.bottom" timestamp="1584436834827">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="190" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584436672413" />
-    <state width="1557" height="190" key="GridCell.Tab.0.center" timestamp="1584436672413">
+    <state width="1557" height="190" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584436834827" />
+    <state width="1557" height="190" key="GridCell.Tab.0.center" timestamp="1584436834827">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="190" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584436672413" />
-    <state width="1557" height="190" key="GridCell.Tab.0.left" timestamp="1584436672413">
+    <state width="1557" height="190" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584436834827" />
+    <state width="1557" height="190" key="GridCell.Tab.0.left" timestamp="1584436834827">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="190" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584436672413" />
-    <state width="1557" height="190" key="GridCell.Tab.0.right" timestamp="1584436672413">
+    <state width="1557" height="190" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584436834827" />
+    <state width="1557" height="190" key="GridCell.Tab.0.right" timestamp="1584436834827">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="190" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584436672413" />
+    <state width="1557" height="190" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584436834827" />
     <state width="1205" height="225" key="GridCell.Tab.1.bottom" timestamp="1584350230775">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
