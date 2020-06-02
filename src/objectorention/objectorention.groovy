@@ -15,6 +15,8 @@ println person.cry()
 
 /**
  *  为类/对象动态的添加 方法/属性
+ *  但是 动态添加的方法和属性不能跨文件域
+ *  若要解决 请查看 usageEnableGloblly (主要是使用ExpandoMetaClass.enableGloblly（） 方法 设置为全局可用的)
  */
 //动态的为person对象添加一个 sex属性
 person.metaClass.sex="wman"
@@ -29,8 +31,19 @@ Person.metaClass.sex="man"
 def personAddSex=new Person()
 println personAddSex.sex
 //动态为类添加一个方法    通过闭包 把方法注入到类中
+//注意当对象 在通过元编程添加方法之前添加 那么，方法将不起作用
 Person.metaClass.sexUpperCase={
-   -> sex.toUpperCase()
+    sex.toUpperCase()
 }  
+//person对象 是在 Person添加sexUpperCase方法之前添加的 所以调用失败了
+//println person.sexUpperCase()
 def person1=new Person()
-println person.sexUpperCase()
+println person1.sexUpperCase()
+
+//给某个类添加静态方法/静态属性类似
+Person.metaClass.static.creatPerson={
+   String name,Integer age
+   ->new Person(name: name,age: age)
+}
+def staticPerson=Person.creatPerson("hongzhi.xu",21)
+println staticPerson.name +' and '+staticPerson.age

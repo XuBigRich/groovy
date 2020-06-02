@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8eec4564-cab1-4ede-b26e-5e927e2e2766" name="Default Changelist" comment="" />
+    <list default="true" id="3b84f002-8ed1-4f5a-92a3-7a389b1360a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/objectorention/usageEnableGloblly/ApplicationManager.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectorention/usageEnableGloblly/Entry.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectorention/usageEnableGloblly/PersonManager.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/groovy/objectorention/objectorention$_run_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/groovy/objectorention/objectorention$_run_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/groovy/objectorention/objectorention.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/groovy/objectorention/objectorention.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectorention/objectorention.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectorention/objectorention.groovy" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,57 +46,71 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hot-deployment-plugin-framework" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Groovy.objectorention">
-    <configuration name="ClouserStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+  <component name="RunManager" selected="Application.Entry">
+    <configuration name="Entry (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectorention.usageEnableGloblly.Entry" />
       <module name="groovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/closure/ClouserStudy.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/closure" />
-      <setting name="debug" value="false" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectorention.usageEnableGloblly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GStringStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="Entry (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectorention.usageEnableGloblly.Entry" />
       <module name="groovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/string/GStringStudy.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/string" />
-      <setting name="debug" value="false" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectorention.usageEnableGloblly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HigherLevelClouseStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="Entry (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectorention.usageEnableGloblly.Entry" />
       <module name="groovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/closure/HigherLevelClouseStudy.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/closure" />
-      <setting name="debug" value="false" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectorention.usageEnableGloblly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsageClouseStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="Entry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectorention.usageEnableGloblly.Entry" />
       <module name="groovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/closure/UsageClouseStudy.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/closure" />
-      <setting name="debug" value="false" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectorention.usageEnableGloblly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="objectorention" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="objectorention (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="groovy" />
       <setting name="path" value="file://$PROJECT_DIR$/src/objectorention/objectorention.groovy" />
       <setting name="vmparams" value="" />
@@ -101,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Groovy.objectorention" />
-        <item itemvalue="Groovy.HigherLevelClouseStudy" />
-        <item itemvalue="Groovy.UsageClouseStudy" />
-        <item itemvalue="Groovy.ClouserStudy" />
-        <item itemvalue="Groovy.GStringStudy" />
+        <item itemvalue="Application.Entry" />
+        <item itemvalue="Application.Entry (3)" />
+        <item itemvalue="Application.Entry (2)" />
+        <item itemvalue="Application.Entry (1)" />
+        <item itemvalue="Groovy.objectorention (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -126,13 +148,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8eec4564-cab1-4ede-b26e-5e927e2e2766" name="Default Changelist" comment="" />
+      <changelist id="3b84f002-8ed1-4f5a-92a3-7a389b1360a0" name="Default Changelist" comment="" />
       <created>1584325063035</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584325063035</updated>
       <workItem from="1584325064843" duration="16812000" />
       <workItem from="1584407159884" duration="17255000" />
+      <workItem from="1584529160706" duration="355000" />
     </task>
     <servers />
   </component>
@@ -152,25 +175,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1584428976348" />
-    <state x="580" y="188" key="FileChooserDialogImpl" timestamp="1584423851310">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="464" y="151" key="FileChooserDialogImpl" timestamp="1584529507251">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="464" y="151" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1584529507251" />
     <state x="580" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584423851310" />
-    <state width="1557" height="190" key="GridCell.Tab.0.bottom" timestamp="1584436834827">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1584453305601">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1584453305601" />
     <state width="1557" height="190" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584436834827" />
-    <state width="1557" height="190" key="GridCell.Tab.0.center" timestamp="1584436834827">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1584453305601">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1584453305601" />
     <state width="1557" height="190" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584436834827" />
-    <state width="1557" height="190" key="GridCell.Tab.0.left" timestamp="1584436834827">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1584453305600">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1584453305600" />
     <state width="1557" height="190" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584436834827" />
-    <state width="1557" height="190" key="GridCell.Tab.0.right" timestamp="1584436834827">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1584453305601">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1584453305601" />
     <state width="1557" height="190" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584436834827" />
     <state width="1205" height="225" key="GridCell.Tab.1.bottom" timestamp="1584350230775">
       <screen x="0" y="0" width="1600" height="860" />
@@ -196,5 +224,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="594" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1584425843043" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1584449039243">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1584449039243" />
   </component>
 </project>
